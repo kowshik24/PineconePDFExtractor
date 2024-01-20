@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: PineconePDFExtractor
+Version: 0.1
+Summary: A library to process PDF files for Pineone
+Home-page: https://github.com/kowshik24/PineconePDFExtractor
+Author: Kowshik Deb Nath
+Author-email: kowshikcseruet1998@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.10
+License-File: LICENSE

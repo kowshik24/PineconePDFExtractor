@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+PineconePDFExtractor.egg-info/PKG-INFO
+PineconePDFExtractor.egg-info/SOURCES.txt
+PineconePDFExtractor.egg-info/dependency_links.txt
+PineconePDFExtractor.egg-info/requires.txt
+PineconePDFExtractor.egg-info/top_level.txt
+pdf/__init__.py
+pdf/pdf_processor.py
