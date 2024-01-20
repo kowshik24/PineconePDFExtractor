@@ -10,6 +10,10 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Pinecon
 pip install PineconePDFExtractor
 ```
 
+## Check the latest version here:
+https://pypi.org/project/PineconePDFExtractor/
+
+
 ## Usage
 
 ```python
