@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: PineconePDFExtractor
+Version: 0.1.8
+Summary: A library to process PDF files for Pineone
+Home-page: https://github.com/kowshik24/PineconePDFExtractor
+Author: Kowshik Deb Nath
+Author-email: kowshikcseruet1998@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # PineconePDFExtractor
 
 PineconePDFExtractor is a Python library for extracting text from PDF files for pinecone.
@@ -5,11 +18,6 @@ PineconePDFExtractor is a Python library for extracting text from PDF files for 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install PineconePDFExtractor.
-
-## Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dTGaIHgq5KtV06Sno5-4EGUwQiiKXfbE?usp=sharing)
-
-
 
 ```bash
 pip install PineconePDFExtractor

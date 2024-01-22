@@ -1,1 +1,1 @@
-from .pdf_processor import PdfProcessor
+from .PineconePDFExtractor import PdfProcessor

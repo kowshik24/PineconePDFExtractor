@@ -3,3 +3,4 @@ pdf/__pycache__
 PineconePDFExporter.egg-info
 build
 dist
+__pycache__
